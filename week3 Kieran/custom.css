@@ -1,0 +1,17 @@
+
+
+.p-2{
+	background-image: url('Night-sky.jpg');
+	color: white;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	height: 300px;
+	margin-top: 20px;
+}
+
+.cols{
+	background: lightgrey;
+	background-clip: padding-box;
+	border: 3px solid transparent;
+}
